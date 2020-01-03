@@ -1,0 +1,1 @@
+/home/jannes/work/rust/test1/generic/target/debug/generic: /home/jannes/work/rust/test1/generic/src/gen1.rs /home/jannes/work/rust/test1/generic/src/gen2.rs /home/jannes/work/rust/test1/generic/src/gen3.rs /home/jannes/work/rust/test1/generic/src/main.rs
