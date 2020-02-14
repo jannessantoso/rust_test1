@@ -1,0 +1,1 @@
+/home/jannes/work/rust/rust_test1/traits/target/debug/derive: /home/jannes/work/rust/rust_test1/traits/src/derive.rs /home/jannes/work/rust/rust_test1/traits/src/dynamic.rs /home/jannes/work/rust/rust_test1/traits/src/main.rs
